@@ -1,2 +1,3 @@
-This is ex1 from master
+This is still ex1 from master
 And this is a second row in it
+And this is a new line
